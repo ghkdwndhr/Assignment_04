@@ -10,7 +10,7 @@ GPIO 제어를 통해 하드웨어와의 연동을 실습하는 것을 목표로
 
 ## 🎥 시연 동영상
 
-[![3비트 카운터 시연 영상](https://youtu.be/sFfZCYv-jSo?si=T8ePf8CkPU3byGFO)
+[![3비트 카운터 시연 영상](https://youtu.be/sFfZCYv-jSo?si=sqDUGz0Gey9cy3Z3)
 
 👉 클릭하면 유튜브 영상으로 이동합니다.
 
