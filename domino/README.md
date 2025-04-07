@@ -15,8 +15,9 @@ LED를 도미노처럼 순차적으로 켜는 스크립트가 들어 있습니�
 
 ## 🧩 회로 사진
 
-![회로 사진](![image](https://github.com/user-attachments/assets/749a35f9-0c93-40c1-a593-857bdec93b5d)
-)
+> 아래는 실제 도미노 LED 회로 구성 사진입니다.
+
+![회로 사진](./circuit.jpg) <!-- 저장한 이미지 파일 이름에 맞게 수정 가능 -->
 
 ---
 
