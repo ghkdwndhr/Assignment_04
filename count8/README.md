@@ -22,8 +22,8 @@ GPIO 제어를 통해 하드웨어와의 연동을 실습하는 것을 목표로
 > 각 LED는 라즈베리파이의 GPIO 14, 15, 16번 핀에 연결되어 있습니다.
 > 회로에는 라즈베리파이, 브레드보드, 점퍼선, LED, 저항이 연결되어 있습니다.
 
-![회로 사진](![image](https://github.com/user-attachments/assets/3b251144-0e39-443c-8388-2a56116c3ecc)
-)
+![image](https://github.com/user-attachments/assets/5cd2e13e-2067-4095-a716-9c252d1d8145)
+
 
 ---
 
