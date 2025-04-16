@@ -22,7 +22,7 @@ LED를 도미노처럼 순차적으로 점등하는 **파이썬 스크립트**�
 아래는 실제 도미노 LED 회로 구성 사진입니다.  
 회로는 브레드보드와 점퍼선을 활용하여 라즈베리파이의 GPIO 핀과 연결되어 있습니다.
 
-![회로 사진](![image](https://youtu.be/TNbJCfQXWqI?si=pzP8ZwS4gV-ggv8A)
+![회로 사진](![image](https://github.com/user-attachments/assets/e02f8d1b-1f0b-4910-b193-58aa86c0ec29)
 )
 
 ---
