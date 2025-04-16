@@ -11,7 +11,7 @@ LED를 도미노처럼 순차적으로 점등하는 **파이썬 스크립트**�
 
 ## 🎥 시연 동영상
 
-[도미노 LED 시연 영상 바로가기](https://youtu.be/JqaspqSPogI?si=rbQri3j8Vn_CoLt7)
+[도미노 LED 시연 영상 바로가기](https://youtu.be/TNbJCfQXWqI?si=pzP8ZwS4gV-ggv8A)
 
 👉 클릭하면 유튜브 영상으로 이동합니다.
 
