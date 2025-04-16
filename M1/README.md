@@ -33,7 +33,7 @@
 
 ## 🎥 시연 영상
 
-[!(https://youtu.be/TNbJCfQXWqI?si=pzP8ZwS4gV-ggv8A)]
+[▶️ 시연 영상 보러가기](https://youtu.be/TNbJCfQXWqI?si=pzP8ZwS4gV-ggv8A)
 
 👉 버튼을 누를 때만 4개의 LED가 동시에 점등됩니다.
 
